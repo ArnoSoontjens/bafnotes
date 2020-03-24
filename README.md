@@ -25,6 +25,8 @@ The final goal is to create a notes app that is quick and easy to use with a coo
   * Location?
  * Share notes with some else (Whatsapp, facebook,...)(TODO)
  * ...
+WOULD BE GREAT:
+If I could add a speach-to-text function, that would be GREAT. Should look into this.
  
 ## Testing
 //TODO
